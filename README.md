@@ -1,3 +1,5 @@
+# 本仓库不再更新。新仓库：Laide140/RailKaleNext
+
 # 铁路万花筒 · RailKale: Next
 
 一款综合铁路信息查询 App，界面采用 iOS 风格设计。基于 **uni-app（Vue 2）** 开发，一套代码可编译到 **Android App、iOS App、H5 与微信小程序**。
